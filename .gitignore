@@ -1,2 +1,4 @@
 .mypy_cache/
 data/
+detector-base.pt
+detector-large.pt
